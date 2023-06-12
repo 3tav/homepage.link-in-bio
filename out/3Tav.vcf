@@ -2,11 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 13.3.1//EN
 N:;;;;
-FN:3 Tav d.o.o.
-ORG:3 Tav d.o.o.;
+FN:3 TAV d.o.o.
+ORG:3 TAV d.o.o.;
 EMAIL;type=INTERNET;type=WORK;type=pref:info@3tav.si
 TEL;type=WORK;type=VOICE;type=pref:+386 7 292 70 80
 ADR;type=WORK;type=pref:;;Podbreznik 15;Novo mesto;;8000;Slovenija
+NOTE:TRR: SI56 0315 0108 6265 342\nID za DDV: SI25670344
 item1.URL;type=pref:https://www.3tav.si
 item1.X-ABLabel:_$!<HomePage>!$_
 X-ABShowAs:COMPANY
